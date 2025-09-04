@@ -9,7 +9,7 @@
 ## 🌐 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
-  <img align="center" src="https://www.linkedin.com/in/samiksha-khul-65445832a/" alt="linkedin" height="30" width="30" />
+  <img align="center" src="www.linkedin.com/in/samiksha-khul-65445832a" alt="linkedin" height="30" width="30" />
 </a>
 </p>
 
